@@ -1,0 +1,38 @@
+===== ATS SKILL MATCH REPORT =====
+
+Rank #1
+Resume      : cand1.pdf
+Match Score : 30.0%
+
+Matched Skills:
+html, c, java
+
+Missing Skills:
+css, javascript, redux, post api, node.js, spring boot, nosql
+==================================================
+
+Rank #2
+Resume      : cand3.pdf
+Match Score : 30.0%
+
+Matched Skills:
+javascript, c, java
+
+Missing Skills:
+html, css, redux, post api, node.js, spring boot, nosql
+==================================================
+
+Rank #3
+Resume      : cand2.pdf
+Match Score : 10.0%
+
+Matched Skills:
+c
+
+Missing Skills:
+html, css, javascript, redux, post api, node.js, java, spring boot, nosql
+==================================================
+
+BEST CANDIDATE
+Resume : cand1.pdf
+Score  : 30.0%
